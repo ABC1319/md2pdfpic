@@ -2,11 +2,11 @@
 
 English | [简体中文](./README.md) | [繁體中文](./README_tc.md)
 
-![Deploy gh-pages](https://github.com/iBigQiang/md2pdfpic/actions/workflows/deploy.yaml/badge.svg)
+![Deploy gh-pages](https://github.com/abc1319/md2pdfpic/actions/workflows/deploy.yaml/badge.svg)
 
 Enhanced Markdown to PDF converter with long image export feature.
 
-**Live Demo:** https://iBigQiang.github.io/md2pdfpic/
+**Live Demo:** https://abc1319.github.io/md2pdfpic/
 
 ## Features
 
