@@ -2,11 +2,11 @@
 
 [English](./README_en.md) | [简体中文](./README.md) | 繁體中文
 
-![Deploy gh-pages](https://github.com/iBigQiang/md2pdfpic/actions/workflows/deploy.yaml/badge.svg)
+![Deploy gh-pages](https://github.com/abc1319/md2pdfpic/actions/workflows/deploy.yaml/badge.svg)
 
 增強版 Markdown 轉 PDF 轉換器，支援長圖匯出功能。
 
-**線上演示：** https://iBigQiang.github.io/md2pdfpic/
+**線上演示：** https://abc1319.github.io/md2pdfpic/
 
 ## 功能特性
 
